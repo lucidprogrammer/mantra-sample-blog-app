@@ -1,3 +1,5 @@
+import 'meteor-imports';
+
 import {createApp} from 'mantra-core';
 import initContext from './configs/context';
 
